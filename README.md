@@ -7,5 +7,5 @@ ___
     
 </div>
 <div>
-<a href="mailto:deivid.sandoval.cid@gmail.com"><img src="https://raw.githubusercontent.com/Devccss/Devccss/main/Imagenes/correo.png?token=GHSAT0AAAAAACMG7PAZBX6UTNSYYNZ3X2ROZMSAX7A" width=5%></a>
+<a href="mailto:deivid.sandoval.cid@gmail.com"><img src="https://raw.githubusercontent.com/Devccss/Devccss/main/Imagenes/correo.png?token=GHSAT0AAAAAACMG7PAYOJXAQAWATB2XEKJYZMSBMZA" width=5%></a>
 </div>
