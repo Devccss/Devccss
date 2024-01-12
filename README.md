@@ -16,15 +16,17 @@ desempeño.
     </p>
 </div>
 
+
 ![c](https://skillicons.dev/icons?i=c)
 ![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
-<div></div>
-
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
-<div></div>
-
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Html](https://skillicons.dev/icons?i=html)
 ![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![CSS](https://skillicons.dev/icons?i=css)
+![Progress-2](https://github.com/Devccss/Devccss/assets/149021885/45c3e3ee-c885-4d9a-ac20-015f34f21068)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-![My Skills](https://skillicons.dev/icons?i=java,html,css,c)
