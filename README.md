@@ -8,13 +8,13 @@ ___
 <div display=inline>
     <p> </p>
     <h3><b>About me ↓</b></h3>
+    <pre>
     <p>
-        <pre>
 Lo que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis 
 actos.Me gusta ser comprometido con mis responsabilidades, ser sociable al trabajar en equipo, y mantener el orden en lo posible
 para tener un mejor desempeño.
-        </pre>
     </p>
+    </pre>
 </div>
 
 ![c-](https://github.com/Devccss/Devccss/assets/149021885/221760fb-212c-474d-858d-08076d611a77)
