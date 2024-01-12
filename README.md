@@ -4,7 +4,7 @@ ___
 
 <div align=center>
     <img src="https://github.com/Devccss/Devccss/assets/149021885/3f4ef193-55fd-4f65-9087-a91b0f8d3bbf"/>
-    <p><i>Simpre intento analizar la situacion antes de realizar acciones, aprendiendo de mis errores y escuchando opiniones del resto.</i></p>
+    <p><i>Lo que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis actos. Me gusta ser comprometido con mis responsabilidades, ser sociable al trabajar en equipo, y mantener el orden en lo posible para tener un mejor desempeño.</i></p>
 </div>
 
 
