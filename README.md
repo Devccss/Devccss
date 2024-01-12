@@ -3,26 +3,18 @@ ___
 <h1 align=center> bienvenido </h1>
 
 <div align=center>
-<<<<<<< HEAD
-    <img src="https://github.com/Devccss/Devccss/assets/149021885/3f4ef193-55fd-4f65-9087-a91b0f8d3bbf"/>
-    <p><i>Lo que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis actos. Me gusta ser comprometido con mis responsabilidades, ser sociable al trabajar en equipo, y mantener el orden en lo posible para tener un mejor desempeño.</i></p>
-=======
     <img width=1138 height=300 src="https://github.com/Devccss/Devccss/assets/149021885/b9979b81-8de4-456f-b10c-280d539d398c"/>
 </div>
 <div display=inline>
     <p> </p>
-    <h3><b>Drescripción ↓</b></h3>
+    <h3><b>About me ↓</b></h3>
     <p>
         <pre>
-            <i>
-Simpre intento analizar la situacion antes de realizar acciones, aprendiendo de mis errores y escuchando opiniones del resto.
-Simpre intento analizar la situacion antes de realizar acciones, aprendiendo de mis errores y escuchando opiniones del resto.
-Simpre intento analizar la situacion antes de realizar acciones, aprendiendo de mis errores y escuchando opiniones del resto.   
-            </i>
+Lo que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis 
+actos.Me gusta ser comprometido con mis responsabilidades, ser sociable al trabajar en equipo, y mantener el orden en lo posible
+para tener un mejor desempeño.
         </pre>
     </p>
-    
->>>>>>> 863512289eeb1c33b8e86eac246b20c5aadcf946
 </div>
 
 ![c-](https://github.com/Devccss/Devccss/assets/149021885/221760fb-212c-474d-858d-08076d611a77)
