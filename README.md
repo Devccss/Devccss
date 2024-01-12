@@ -17,14 +17,14 @@ desempeño.
 </div>
 
 ![c](https://skillicons.dev/icons?i=c)
-![Progress-1](https://github.com/Devccss/Devccss/assets/149021885/7830bd89-2011-4fd8-ba0f-171ffc1cdea1)
+![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
 <div></div>
 
 ![Java](https://skillicons.dev/icons?i=java)
-![Progress-2](https://github.com/Devccss/Devccss/assets/149021885/7830bd89-2011-4fd8-ba0f-171ffc1cdea1)
+![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
+<div></div>
 
-<div >
-    <a href="mailto: deivid.sandoval.cid@gmail.com"><img src="https://github.com/Devccss/Devccss/assets/149021885/670200a8-6ffd-4ca0-8b92-1cd9f85854d6" width=5% /></a>
-</div>
+![Html](https://skillicons.dev/icons?i=html)
+![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
 
 ![My Skills](https://skillicons.dev/icons?i=java,html,css,c)
