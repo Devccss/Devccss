@@ -10,6 +10,25 @@
 
 #### Una de las cosas que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis actos.Me gusta ser comprometido con mis responsabilidades,ser sociable al trabajar en equipo, y mantener el orden en lo posible para tener un mejor desempeño.
 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Intereses personales
+#### Informaticos:
+`Desarrollo Web`
+`Cibeseguridad`
+`Desarrollo de aplicaciones`
+~~~
+public class Profile {
+    public static void main(String[] args) {
+
+        System.out.println("Actualmente trabajando para tener mi primer web");
+
+    }
+}
+~~~
+#### Recreativos:
+`volleyball`
+`Producción musical`
+`Diseño grafico`
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -35,8 +54,8 @@
 ![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Visual-basic-46](https://github.com/Devccss/Devccss/assets/149021885/398a5f19-a936-4e9d-bc81-213a92378856)
-![Progress-5](https://github.com/Devccss/Devccss/assets/149021885/6de20da0-41f2-45c9-9093-238f4fcdfa20)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎ ‎ ‎ ‎ ‎ ‎
+![Progress-5](https://github.com/Devccss/Devccss/assets/149021885/6de20da0-41f2-45c9-9093-238f4fcdfa20)‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Ps](https://skillicons.dev/icons?i=ps)
 ![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -45,3 +64,13 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Fl-studio-46](https://github.com/Devccss/Devccss/assets/149021885/065f1a27-0cad-44cb-adfb-a8cfe3765325)
 ![Progress-5](https://github.com/Devccss/Devccss/assets/149021885/6de20da0-41f2-45c9-9093-238f4fcdfa20)‎ 
+‎ ‎ ‎ ‎ 
+#### Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![Libro-46](https://github.com/Devccss/Devccss/assets/149021885/f5b16abc-72f1-45b8-9c2f-53a79e577934) ``Ingles (A1)`` ``Español (nativo)``
+
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+
+## Contacto
+[![Correo-46](https://github.com/Devccss/Devccss/assets/149021885/bdc88834-5020-46c5-8afd-38178c467f16)](https://mail.google.com/mail/u/0/#search/deivid.sandoval.cid%40gmail.com)
+
+
