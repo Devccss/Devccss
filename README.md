@@ -16,15 +16,7 @@
 `Desarrollo Web`
 `Cibeseguridad`
 `Desarrollo de aplicaciones`
-~~~
-public class Profile {
-    public static void main(String[] args) {
 
-        System.out.println("Actualmente trabajando para tener mi primer web");
-
-    }
-}
-~~~
 #### Recreativos:
 `volleyball`
 `Producción musical`
@@ -33,39 +25,35 @@ public class Profile {
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Habilidades
-#### Lenguajes de programación: 
-![c](https://skillicons.dev/icons?i=c)
-![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
+#### Lenguajes de programación:
+*Ubica el cursor sobre los iconos :)*
+
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![cpp](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java "Java")
 ![Progress-2](https://github.com/Devccss/Devccss/assets/149021885/45c3e3ee-c885-4d9a-ac20-015f34f21068)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Java](https://skillicons.dev/icons?i=java)
+![Html](https://skillicons.dev/icons?i=html "Html")
 ![Progress-3](https://github.com/Devccss/Devccss/assets/149021885/873e4da0-85c2-4ea8-8f3c-a64655b6c974)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Html](https://skillicons.dev/icons?i=html)
-![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![CSS](https://skillicons.dev/icons?i=css)
+![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![Progress-2](https://github.com/Devccss/Devccss/assets/149021885/45c3e3ee-c885-4d9a-ac20-015f34f21068)
+
 ‎ ‎ ‎ ‎ 
 #### Programas:
-![Exel-46](https://github.com/Devccss/Devccss/assets/149021885/37510ebb-a4eb-437a-a844-f6d2f2f250d7)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![Ps](https://skillicons.dev/icons?i=ps "PhotoShop")
 ![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Visual-basic-46](https://github.com/Devccss/Devccss/assets/149021885/398a5f19-a936-4e9d-bc81-213a92378856)
-![Progress-5](https://github.com/Devccss/Devccss/assets/149021885/6de20da0-41f2-45c9-9093-238f4fcdfa20)‎ 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Ps](https://skillicons.dev/icons?i=ps)
+![Ai](https://skillicons.dev/icons?i=ai "AdobeIllustrator")
 ![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Ai](https://skillicons.dev/icons?i=ai)
-![Progress-4](https://github.com/Devccss/Devccss/assets/149021885/f72d247d-ca11-4483-9104-bfc05e97fa30)
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Fl-studio-46](https://github.com/Devccss/Devccss/assets/149021885/065f1a27-0cad-44cb-adfb-a8cfe3765325)
-![Progress-5](https://github.com/Devccss/Devccss/assets/149021885/6de20da0-41f2-45c9-9093-238f4fcdfa20)‎ 
 ‎ ‎ ‎ ‎ 
-#### Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### En proceso:
+~~~
+System.out.println("Actualmente aprendiendo JvaScript");
+~~~
+
+### Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![Libro-46](https://github.com/Devccss/Devccss/assets/149021885/f5b16abc-72f1-45b8-9c2f-53a79e577934) ``Ingles (A1)`` ``Español (nativo)``
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
