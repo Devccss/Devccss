@@ -1,9 +1,8 @@
 
 <h1 align=center> bienvenido </h1>
-
 ## About me ↓
 
-#### Una de las cosas que más me caracteriza es mi forma de sobrellevar situaciones cotidianas tomando en cuenta consecuencias y beneficios de mis actos.Me gusta ser comprometido con mis responsabilidades,ser sociable al trabajar en equipo, y mantener el orden en lo posible para tener un mejor desempeño.
+#### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y me gusta mantener el orden en lo posible para tener un mejor desempeño.
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Intereses personales
@@ -40,7 +39,8 @@
 ‎ ‎ ‎ ‎ 
 #### En proceso:
 ~~~
-System.out.println("Actualmente aprendiendo JvaScript");
+Cursando 3er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
+Actualmente aprendiendo JvaScript
 ~~~
 
 ### Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
