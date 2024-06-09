@@ -1,6 +1,6 @@
 
 ## About me ↓
-#### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y me gusta mantener el orden en lo posible para tener un mejor desempeño.
+### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y me gusta mantener el orden en lo posible para tener un mejor desempeño.
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Intereses personales
