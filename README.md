@@ -1,6 +1,6 @@
 
 ## About me ↓
-### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y me gusta mantener el orden en lo posible para tener un mejor desempeño.
+### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y procuro mantener el orden en lo posible para tener un mejor desempeño.
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Intereses personales
@@ -26,6 +26,9 @@
 ![Html](https://skillicons.dev/icons?i=html "Html")
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+![JS](https://skillicons.dev/icons?i=js "JS")
+
 
 ‎ ‎ ‎ ‎ 
 #### Programas:
@@ -38,7 +41,7 @@
 #### En proceso:
 ~~~
 Cursando 3er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
-Actualmente aprendiendo JvaScript
+Actualmente aprendiendo ASTRO
 ~~~
 
 ### Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
