@@ -36,7 +36,7 @@
 ‎ ‎ ‎ ‎ 
 #### En proceso:
 ~~~
-Cursando 3er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
+Cursando 4er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
 Actualmente aprendiendo ASTRO
 ~~~
 
