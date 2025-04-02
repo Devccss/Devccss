@@ -1,7 +1,3 @@
-
-## About me ↓
-### Me describo como una persona optimista, bastante analitica, sociable a la hora de trabajar en equipo y procuro mantener el orden en lo posible para tener un mejor desempeño.
-
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Intereses personales
 #### Informaticos:
