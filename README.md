@@ -3,13 +3,16 @@
 ![Html](https://skillicons.dev/icons?i=html "Html")
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![JS](https://skillicons.dev/icons?i=js "JS")
+![Nestjs](https://skillicons.dev/icons?i=nestjs "Nestjs")
 ![Astro](https://skillicons.dev/icons?i=astro "Astro")
 ![Docker](https://skillicons.dev/icons?i=docker "Docker")
-![Kotlin](https://skillicons.dev/icons?i=kotlin "Kotlin")
+![Postgres](https://skillicons.dev/icons?i=postgres "Postgres SQL")
+
 
 #### Programas:
 ![Ps](https://skillicons.dev/icons?i=ps "PhotoShop")
 ![Ai](https://skillicons.dev/icons?i=ai "AdobeIllustrator")
+![Figma](https://skillicons.dev/icons?i=figma "Figma")
 
 #### En proceso:
 ~~~
