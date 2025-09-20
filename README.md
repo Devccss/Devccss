@@ -1,6 +1,5 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Habilidades
-#### Lenguajes de programación:
 ![Html](https://skillicons.dev/icons?i=html "Html")
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![JS](https://skillicons.dev/icons?i=js "JS")
