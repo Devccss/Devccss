@@ -13,7 +13,7 @@
 #### En proceso:
 ~~~
 Cursando 4er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
-Actualmente aprendiendo ASTRO
+Actualmente aprendiendo Kotlin Multiplatform
 ~~~
 
 ## Intereses personales
