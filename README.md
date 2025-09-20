@@ -1,10 +1,12 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Habilidades
 #### Lenguajes de programación:
-![Java](https://skillicons.dev/icons?i=java "Java")
 ![Html](https://skillicons.dev/icons?i=html "Html")
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![JS](https://skillicons.dev/icons?i=js "JS")
+![Astro](https://skillicons.dev/icons?i=astro "Astro")
+![Docker](https://skillicons.dev/icons?i=docker "Docker")
+![Kotlin](https://skillicons.dev/icons?i=kotlin "Kotlin")
 
 #### Programas:
 ![Ps](https://skillicons.dev/icons?i=ps "PhotoShop")
