@@ -16,8 +16,7 @@
 
 #### En proceso:
 ~~~
-Cursando 4er año de Ingienería En Ejecucción Informatica (Universidad del Bío Bío)
-Actualmente aprendiendo Kotlin Multiplatform
+Desarrollando proyecto de titulo en la carrera de Ingienería En Ejecución Informática, UBB, App en Kotlin Multiplatform
 ~~~
 
 ## Intereses personales
