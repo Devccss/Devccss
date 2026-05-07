@@ -16,7 +16,7 @@
 
 #### En proceso:
 ~~~
-Desarrollando proyecto de titulo en la carrera de Ingienería En Ejecución Informática, UBB, App en Kotlin Multiplatform
+Aprendiendo Kotlin Multiplatform
 ~~~
 
 ## Intereses personales
