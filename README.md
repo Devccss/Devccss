@@ -35,7 +35,7 @@ Aprendiendo Kotlin Multiplatform
 ###
 ###
 ## Idiomas‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-![Libro-46](https://github.com/Devccss/Devccss/assets/149021885/f5b16abc-72f1-45b8-9c2f-53a79e577934) ``Ingles (A1)`` ``Español (nativo)``
+![Libro-46](https://github.com/Devccss/Devccss/assets/149021885/f5b16abc-72f1-45b8-9c2f-53a79e577934) ``Ingles (B1)`` ``Español (nativo)``
 
 ## Contacto
 [![Correo-46](https://github.com/Devccss/Devccss/assets/149021885/bdc88834-5020-46c5-8afd-38178c467f16)](https://mail.google.com/mail/u/0/#search/deivid.sandoval.cid%40gmail.com)
