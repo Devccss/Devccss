@@ -4,6 +4,7 @@
 ![CSS](https://skillicons.dev/icons?i=css "CSS")
 ![JS](https://skillicons.dev/icons?i=js "JS")
 ![Nestjs](https://skillicons.dev/icons?i=nestjs "Nestjs")
+![Nextjs](https://skillicons.dev/icons?i=nextjs "Nextjs")
 ![Astro](https://skillicons.dev/icons?i=astro "Astro")
 ![Kotlin](https://skillicons.dev/icons?i=kotlin "Kotlin")
 ![Docker](https://skillicons.dev/icons?i=docker "Docker")
