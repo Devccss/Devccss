@@ -5,6 +5,7 @@
 ![JS](https://skillicons.dev/icons?i=js "JS")
 ![Nestjs](https://skillicons.dev/icons?i=nestjs "Nestjs")
 ![Astro](https://skillicons.dev/icons?i=astro "Astro")
+![Kotlin](https://skillicons.dev/icons?i=kotlin "Kotlin")
 ![Docker](https://skillicons.dev/icons?i=docker "Docker")
 ![Postgres](https://skillicons.dev/icons?i=postgres "Postgres SQL")
 
